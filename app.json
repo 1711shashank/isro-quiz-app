@@ -46,7 +46,11 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {}
-    }
+      "router": {},
+      "eas": {
+        "projectId": "45863b88-17e3-48a1-9f9e-33a0b7eb983c"
+      }
+    },
+    "owner": "1711shashank"
   }
 }
